@@ -1,0 +1,6 @@
+Hello Students
+Welcome to Python Programming.
+This is a text file.
+Learning Python is easy.
+Welcome to Python Programming!
+Thank you for learning Python.
